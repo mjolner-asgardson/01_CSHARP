@@ -1,0 +1,14 @@
+C:\Users\mjoln\Desktop\AlinaGB\задача 1\obj\Debug\net8.0\задача 1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\mjoln\Desktop\AlinaGB\задача 1\obj\Debug\net8.0\задача 1.AssemblyInfoInputs.cache
+C:\Users\mjoln\Desktop\AlinaGB\задача 1\obj\Debug\net8.0\задача 1.AssemblyInfo.cs
+C:\Users\mjoln\Desktop\AlinaGB\задача 1\obj\Debug\net8.0\задача 1.csproj.CoreCompileInputs.cache
+C:\Users\mjoln\Desktop\AlinaGB\задача 1\bin\Debug\net8.0\задача 1.exe
+C:\Users\mjoln\Desktop\AlinaGB\задача 1\bin\Debug\net8.0\задача 1.deps.json
+C:\Users\mjoln\Desktop\AlinaGB\задача 1\bin\Debug\net8.0\задача 1.runtimeconfig.json
+C:\Users\mjoln\Desktop\AlinaGB\задача 1\bin\Debug\net8.0\задача 1.dll
+C:\Users\mjoln\Desktop\AlinaGB\задача 1\bin\Debug\net8.0\задача 1.pdb
+C:\Users\mjoln\Desktop\AlinaGB\задача 1\obj\Debug\net8.0\задача 1.dll
+C:\Users\mjoln\Desktop\AlinaGB\задача 1\obj\Debug\net8.0\refint\задача 1.dll
+C:\Users\mjoln\Desktop\AlinaGB\задача 1\obj\Debug\net8.0\задача 1.pdb
+C:\Users\mjoln\Desktop\AlinaGB\задача 1\obj\Debug\net8.0\задача 1.genruntimeconfig.cache
+C:\Users\mjoln\Desktop\AlinaGB\задача 1\obj\Debug\net8.0\ref\задача 1.dll
